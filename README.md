@@ -1,2 +1,2 @@
 # Spyder
-phython code
+python code
